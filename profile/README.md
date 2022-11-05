@@ -1,1 +1,3 @@
-## Hello this is 243 Studio
+# Hello this is 243 Studio
+
+### The Creative powehouse
